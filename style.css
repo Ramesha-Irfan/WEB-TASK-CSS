@@ -1,0 +1,58 @@
+.body {
+background-color: lightblue;
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 20px;
+}
+.title {
+text-align: center;
+color: black;
+font-size: 36px;
+}
+.section-title {
+color: green;
+font-size: 24px;
+text-decoration: underline;
+}
+h1, h2 {
+font-family: Arial, sans-serif;
+}
+hr {
+border: 1px solid #4CAF50;
+}
+.profile {
+margin-bottom: 20px;
+font-size: 18px;
+}
+ol {
+font-size: 18px;
+line-height: 1.6;
+}
+ul {
+font-size: 16px;
+}
+.student-table {
+width: 100%;
+border-collapse: collapse;
+}
+.student-table th, .student-table td {
+padding: 8px;
+text-align: center;
+}
+.student-table th {
+background-color: #4CAF50;
+color: white;
+}
+.student-table tr:nth-child(even) {
+background-color: #f2f2f2;
+}
+.student-table tr:hover {
+background-color: #ddd;
+}
+.link a {
+color: #4CAF50;
+text-decoration: none;
+}
+.link a:hover {
+text-decoration: underline;
+}
